@@ -13,7 +13,9 @@
   "author": "Rajan Gupta",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.21.2"
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.4"
   },
   "devDependencies": {
     "concurrently": "^9.1.2",
